@@ -7,7 +7,7 @@ i have a cancer called LAZY, voiding the study of classic algorithms like [proxT
 # TODO
 very long TODO list
 * using tensorflow (lazy me),start from 1 dim sequence, then 2d, then 2d with channels(deal with color)
-* using cython,mimic the ProxTV project
+* using cython,mimic the ProxTV project，and heal the cancer
 
 # Current State
 only a erroneous 1d tf version
