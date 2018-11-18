@@ -1,5 +1,7 @@
-# tf-tv
+# Total_varation
 total vatiation minimization\denoise using tensorflow
+
+$\underset{x}{\min} \frac{1}{2} \|x-y\|^2_2 +\lambda\sum_i|x_i-x_{i-1}|$
 
 i have a cancer called LAZY, voiding the study of classic algorithms like [proxTV](https://github.com/albarji/proxTV)
 # TODO
@@ -8,5 +10,5 @@ very long TODO list
 * using cython,mimic the ProxTV project
 
 # Current State
-only a buggy 1d tf version
+only a erroneous 1d tf version
 
