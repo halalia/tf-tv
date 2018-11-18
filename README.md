@@ -7,3 +7,6 @@ very long TODO list
 * using tensorflow (lazy me),start from 1 dim sequence, then 2d, then 2d with channels(deal with color)
 * using cython,mimic the ProxTV project
 
+# Current State
+only a buggy 1d tf version
+
